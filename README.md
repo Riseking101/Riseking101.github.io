@@ -1,2 +1,2 @@
-# Riseking101.github.io
-Personal website (under construction)
+# Personal
+This is my personal website (Currently still under construction)
